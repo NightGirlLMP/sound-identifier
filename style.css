@@ -1,0 +1,42 @@
+body
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightgoldenrodyellow;
+}
+
+.header_div
+{
+    background-color: antiquewhite;
+    color: lightseagreen;
+}
+
+.header_div p
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family:'Courier New', Courier, monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: darkslategray;
+    width: 100%;
+    bottom: 0;
+    text-shadow: 2px 2px 2px gray;
+    text-align: center;
+    font-size: 18px;
+    background-color: antiquewhite;
+    line-height: 3;
+}
